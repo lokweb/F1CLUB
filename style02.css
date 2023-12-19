@@ -63,9 +63,10 @@ body {
     height: 100%;
   }
 /*video*/
+#video{
 width:100%;
 aspect-ratio:16/9;
-
+}
 
 
   
