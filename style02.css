@@ -62,16 +62,15 @@ body {
     padding: 100px 20px;
     height: 100%;
   }
-/*video*/
-#video{
-width:100%;
-aspect-ratio:16/9;
-}
-
-
   
   #GTR  {background-color: rgb(20, 190, 57);
   }
   #LM {background-color: rgb(255, 196, 1);
   }
   #GT {background-color: rgb(3, 19, 2);}
+
+/*video*/
+#video{
+    width:100%;
+    aspect-ratio:16/9;
+}
