@@ -11,6 +11,7 @@
 
 
 .loaderHolder{
+  z-index:100;
     background: #b3730e;
     height: 100%;
     width: 100vw;
